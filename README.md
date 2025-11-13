@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Silas Abayomi
 
-<!--
-**Haybesil/Haybesil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Frontend Developer** who turns designs into **fast, responsive, and user-friendly web applications**. I specialize in **React** and **Next.js**, building interfaces that not only look great but also **drive engagement and deliver results**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+- Build **high-performing web apps** that scale and delight users  
+- Create **modern, interactive UI/UX** that makes complex flows simple  
+- Integrate **APIs and backend services** seamlessly to deliver complete solutions  
+
+---
+
+## 🌍 Let’s Connect
+- Portfolio: [silas-bice.vercel.app](https://silas-bice.vercel.app)  
+- LinkedIn: [linkedin.com/in/silas-abayomi](https://www.linkedin.com/in/silas-abayomi)  
+- Twitter: [@silasdev](https://twitter.com/silasdev)  
+
+---
+
+## ⚙️ Skills & Tools
+**Frontend:** React, Next.js, JavaScript, HTML, CSS  
+**Styling:** Tailwind CSS, CSS Modules, Styled Components  
+**Other:** Git, GitHub, REST APIs, Fetch & Axios  
+
+---
+
+## 📈 GitHub Stats
+![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=silasabayomi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silasabayomi&layout=compact&theme=radical)  
+
+---
+
+✨ **Let’s build something amazing together.**  
