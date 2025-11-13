@@ -14,7 +14,7 @@ I’m a **Frontend Developer** who turns designs into **fast, responsive, and us
 ## 🌍 Let’s Connect
 - Portfolio: [silas-bice.vercel.app](https://silas-bice.vercel.app)  
 - LinkedIn: [linkedin.com/in/silas-abayomi](https://www.linkedin.com/in/silas-abayomi)  
-- Twitter: [@silasdev](https://twitter.com/silasdev)  
+- Twitter: [@silasdev](https://twitter.com/siscoHey)  
 
 ---
 
@@ -26,8 +26,8 @@ I’m a **Frontend Developer** who turns designs into **fast, responsive, and us
 ---
 
 ## 📈 GitHub Stats
-![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=silasabayomi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silasabayomi&layout=compact&theme=radical)  
+![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haybesil&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haybesil&layout=compact&theme=radical)  
 
 ---
 
