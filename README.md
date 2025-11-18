@@ -13,8 +13,8 @@ I’m a **Frontend Developer** who turns designs into **fast, responsive, and us
 
 ## 🌍 Let’s Connect
 - Portfolio: [silas-bice.vercel.app](https://silas-bice.vercel.app)  
-- LinkedIn: [linkedin.com/in/silas-abayomi](https://www.linkedin.com/in/silas-abayomi)  
-- Twitter: [@silasdev](https://twitter.com/siscoHey)  
+- LinkedIn: [linkedin.com/in/silas-abayomi](https://www.linkedin.com/in/silasabayomi)  
+- Twitter: [@siscoHey](https://twitter.com/siscoHey)  
 
 ---
 
